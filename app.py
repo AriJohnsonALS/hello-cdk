@@ -3,7 +3,7 @@ import os
 
 import aws_cdk as cdk
 
-from hello_cdk.hello_cdk_stack import ApiWebsocketStack
+from hello_cdk.api_websocket import ApiWebsocketStack
 
 
 app = cdk.App()
